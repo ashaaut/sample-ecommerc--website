@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Ecom1"
+  "defaultProject": "Ecom1",
+  "cli": {
+    "analytics": false
+  }
 }
