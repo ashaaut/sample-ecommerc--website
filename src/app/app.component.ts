@@ -1,8 +1,8 @@
-import { Component } from '@angular/core';
+import { Component,NgModule } from '@angular/core';
 
 @Component({
   selector: 'app',
-  template: "<store></store>"
+  template: '<store></store>'
 })
 export class AppComponent { //no anti pattern
 }
